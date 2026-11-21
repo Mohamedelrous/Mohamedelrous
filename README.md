@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Mohamed Elrous Banner">
+  <img src="[assets/banner.png](https://www.google.com/imgres?q=programming%20github%20banner&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F109351602%2F202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fsbrb&docid=x2WdBvzT-tpdaM&tbnid=4kAY1o2Qnffr8M&vet=12ahUKEwjczNWci5qYAxUTP_sDHTgLFFoQnPAOegUIqgEQAA..i&w=1900&h=684&hcb=2&ved=2ahUKEwjczNWci5qYAxUTP_sDHTgLFFoQnPAOegUIqgEQAA)" width="100%" alt="Mohamed Elrous Banner">
 
   <h1>Hi, I'm Mohamed Atia Elrous 👋</h1>
 
