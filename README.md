@@ -1,65 +1,67 @@
 
-<h1 align="center">Hi 👋, I'm Mohamed Atia Elrous</h1>
-<h3 align="center">Frontend Developer | React.js Developer</h3>
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Mohamed Elrous Banner">
 
-<p align="center">
-  Building responsive, modern and user-friendly web applications.
-</p>
+  <h1>Hi, I'm Mohamed Atia Elrous 👋</h1>
 
-<p align="center">
+  <h3>
+    Frontend Developer | React.js | Full Stack
+  </h3>
+
+  <p>
+    Building modern, responsive and user-friendly
+    web applications.
+  </p>
+
   <a href="https://linkedin.com/in/mohamed-elrous">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    LinkedIn
   </a>
+  •
   <a href="mailto:mohamedelrous1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    Email
   </a>
-</p>
+  •
+  <a href="https://github.com/Mohamedelrous">
+    GitHub
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Graduate – Sinai University.
 - 💻 Frontend Developer specializing in React.js.
-- 🌱 Currently improving my Full Stack Development skills.
-- 🤝 Interested in collaborating on web development projects.
-- 📍 Based in Damietta, Egypt.
-- 📫 Reach me: **mohamedelrous1@gmail.com**
+- 🌱 Learning and improving my Full Stack skills.
+- 🚀 Interested in building real-world applications.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript, TypeScript
-- React.js, Bootstrap, Tailwind CSS
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,python,django,nodejs,git,github,vscode" />
+</div>
 
-**Backend**
-- Python, Django
-- REST APIs
+## 🚀 Featured Projects
 
-**Tools**
-- Git & GitHub
-- VS Code
+### University Management System
+Academic management platform with role-based access.
 
-### 🚀 Featured Projects
+### Electronics E-commerce
+E-commerce platform using Django and MySQL.
 
-| Project | Description |
-|---|---|
-| University Management System | Academic management platform |
-| Electronics E-commerce | Online electronics store |
-| Gym Management & Chatbot | Gym platform with chatbot integration |
+### Gym Website & Chatbot
+Gym management platform with chatbot integration.
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedelrous&show_icons=true&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedelrous&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedelrous&layout=compact&theme=tokyonight"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedelrous&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</div>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
-</p>
+<div align="center">
+  <h3>Building • Learning • Improving 🚀</h3>
+</div>
